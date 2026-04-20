@@ -25,8 +25,11 @@ Designed to assist government bodies and rural health workers in early intervent
 Python
 
 Scikit-learn / TensorFlow 
+
 Pandas, NumPy
+
 Matplotlib / Seaborn
+
 stremalit and its librarires just like for importing maps.
 
 🤝 Impact
