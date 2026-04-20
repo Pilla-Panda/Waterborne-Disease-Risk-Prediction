@@ -3,6 +3,7 @@ A machine learning model to predict the risk of waterborne diseases based on wat
 
 
 💧 Waterborne Disease Prediction
+
 📌 About the Project
 This project was developed as part of Smart India Hackathon (SIH), aimed at solving a real-world public health problem in rural India.
 The primary goal is to predict the risk of waterborne diseases in rural areas using Machine Learning, helping the government and health authorities take proactive measures before outbreaks occur.
