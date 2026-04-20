@@ -36,5 +36,10 @@ stremalit and its librarires just like for importing maps.
 
 This model is a first step toward building a complete early warning system for waterborne diseases, empowering the government to protect rural communities with data-driven decisions.
 
+On the raw Dataset we apply this ML Model then our model is work:
+
+1) On Training data= 100% accuracy
+
+2) On Testing data= 85% accuracy
 
 
